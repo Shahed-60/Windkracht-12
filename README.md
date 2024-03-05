@@ -74,3 +74,7 @@ kye knop kliken in de localhost
 
 
 # Windkracht-12
+composer install
+npm install
+.env aanpasen
+php atrsian serve
